@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6774194
+  lightness: 0.6827957
+  brandStrength: 0.3476703
+  brandColors:
+    - '#200116'
+    - '#FCFCFC'
+    - '#C7A291'
+    - '#936D65'
+    - '#643942'
+  rhythmicContrast: 0.8064516
+typography_spectrum: 0.8154122
+name: 'Bowtie '
