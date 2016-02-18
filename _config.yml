@@ -1,8 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8154122
 color:
   saturation: 0.6774194
-  lightness: 0.6827957
   brandStrength: 0.3476703
+  lightness: 0.6827957
   brandColors:
     - '#200116'
     - '#FCFCFC'
@@ -10,5 +22,5 @@ color:
     - '#936D65'
     - '#643942'
   rhythmicContrast: 0.8064516
-typography_spectrum: 0.8154122
+layout_spectrum: 1
 name: 'Bowtie '
