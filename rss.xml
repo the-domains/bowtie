@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bowtie ]]></title>
         <description><![CDATA[Bowtie ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bowtie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 21:08:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 21:17:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bowtie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beautiful. ]]></title>
+            <description><![CDATA[<article><h1>Beautiful. </h1><p>Beautiful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb9e5ffb1b78fe3d5654c294a123026664edb697.png"></article>]]></description>
+            <link>https://thegrid.ai/bowtie/beautiful/index.html</link>
+            <guid isPermaLink="false">f08c92ac-de57-4353-8763-88f99cd3226e</guid>
+            <pubDate>Fri, 19 Feb 2016 21:17:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f73aca18-dbfa-44ee-8efc-5b00b74e80e4.png">]]></description>
-            <link>undefined011f88e6-e152-4fea-b83a-3d83ae34b0b7/index.html</link>
+            <link>https://thegrid.ai/bowtie/011f88e6-e152-4fea-b83a-3d83ae34b0b7/index.html</link>
             <guid isPermaLink="false">011f88e6-e152-4fea-b83a-3d83ae34b0b7</guid>
             <pubDate>Fri, 19 Feb 2016 21:08:30 GMT</pubDate>
         </item>
